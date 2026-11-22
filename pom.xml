@@ -10,7 +10,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.egjaedong</groupId>
+    <groupId>com.lxf</groupId>
     <artifactId>tiny-claw</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <name>tiny-claw</name>

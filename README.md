@@ -61,7 +61,7 @@ java-tiny-claw
 ├── pom.xml
 ├── AGENT.md                       # 全局 Agent 规则（首次运行时自动从模板生成，可自行修改）
 ├── workspaces/                    # 运行时生成：每个 session 一个子目录
-├── src/main/java/com/egjaedong/tinyclaw
+├── src/main/java/com/lxf/tinyclaw
 │   ├── Claw.java                  # 入口：组装 Provider / 工具 / 上下文管理 / Reminder，发起任务
 │   ├── TinyClawApplication.java   # Spring Boot 启动类，委托给 Claw.main
 │   ├── engine
